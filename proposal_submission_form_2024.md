@@ -8,10 +8,10 @@
 
 #### Team Members `Anish Bhat - anishbhat28, Marcus Blennemann - 25marcusb, James Mulyono - james-mulyono`
 
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### `ComfortZone is a AI-powered navigation tool that guides unhoused individuals along the safest routes and recommends shelters or outdoor safe spots based on hazard mapping, weather risk, and a dignity-based shelter rating system.`
 
-#### A visual
+#### Visual describing ComfortZone
 <img width="1298" height="729" alt="ComfortZoneDiagram" src="https://github.com/user-attachments/assets/cf9818cd-b080-4361-a038-0ddb8ca55e0f" />
 
 
