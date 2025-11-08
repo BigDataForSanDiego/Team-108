@@ -15,8 +15,6 @@
 <img width="1298" height="729" alt="ComfortZoneDiagram" src="https://github.com/user-attachments/assets/cf9818cd-b080-4361-a038-0ddb8ca55e0f" />
 
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
-
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 - [X] Access to Shelter and Resources
